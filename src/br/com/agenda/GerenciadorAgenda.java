@@ -17,6 +17,8 @@ public class GerenciadorAgenda {
 		Contato c5 = new Contato("Gui", "78947894","gui@hotmail.com");
 			
 		
+		
+		
 		Agenda agenda1 = new Agenda();
 		agenda1.adicionarContato(c1);
 		agenda1.adicionarContato(c2);
